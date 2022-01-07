@@ -1,7 +1,7 @@
-* **TODO**\
+* **TODO**
 	* Implement the 8080 disassembler
 
-* **REFERENCES** \
+* **REFERENCES** 
 	* [Hexdump guide](https://www.suse.com/c/making-sense-hexdump/)
 
 
